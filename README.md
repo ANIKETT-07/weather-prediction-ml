@@ -1,7 +1,7 @@
 # 🌦 Weather Prediction using Machine Learning
 
 ## 📌 Overview
-This project predicts temperature using machine learning models based on historical weather data.
+Machine Learning project to predict temperature using Random Forest and analyze seasonal trends
 
 ## ⚙️ Tech Stack
 - Python
