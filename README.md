@@ -3,31 +3,31 @@
 ## 📌 Overview
 This project predicts temperature using machine learning models based on historical weather data.
 
-## ⚙️ Technologies Used
+## ⚙️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib
 
-## 📊 Features
-- Data cleaning and preprocessing
-- Feature engineering (month, day extraction)
-- Model building (Linear Regression, Random Forest)
-- Model evaluation using MAE
-- Visualization of actual vs predicted values
-- Monthly temperature trend analysis
+## 📊 Workflow
+1. Data Cleaning & Preprocessing  
+2. Feature Engineering (month, day extraction)  
+3. Model Training  
+4. Evaluation (MAE)  
+5. Visualization  
 
 ## 🤖 Models Used
-- Linear Regression
-- Random Forest Regressor
+- Linear Regression  
+- Random Forest Regressor  
 
-## 📈 Insights
-- Temperature shows strong seasonal trends
-- Random Forest improved prediction accuracy
+## 📈 Key Insights
+- Temperature shows strong seasonal trends  
+- Peak temperatures occur mid-year (summer months)  
+- Random Forest improved prediction accuracy compared to Linear Regression  
 
 ---
 
-## 📷 Output
+## 📷 Results
 
 ### 🔹 Actual vs Predicted
 ![Prediction Graph](prediction_graph.png)
